@@ -1,21 +1,56 @@
-body {
-    background-color:#DCDCDC;
+body{
+    background-color: #83bf34;
+}
+ header, footer{
+    background-color: rgb(242, 90,138);
+ }
+ 
+main {
+
+	background-color: #acf497;
+}
+h1  {
+	 text-align: center;
+	 color: #black;
+	
 }
 
+h3 {
+	color:black;
+}
 
-h1 {
-    text-align: center;
-    h3 {
-        color: red;
-    }
-    
-    b {
-        color:blue ;
-        font-size: 20px;
-    }
-    
-    i {
-        color: yellow;
-        font-size: 30px;
-    
-    }
+b {
+	color:rgb(242, 90, 138) ;
+	font-size: 20px;
+}
+
+i {
+	color: #32CD32;
+	font-size: 30px;
+
+}
+
+#banner
+{
+    width:100%;
+}
+.principal{
+    background:#CCCCCC
+}
+h1{
+    text-align:center
+}
+p {
+    "text-align:center;
+}
+#missao{
+    font-size:20px
+}
+em stron{
+background:#FF0000;
+}
+.itens{
+    font-style:italic
+}
+.beneficios{background:#FF0000;
+}
